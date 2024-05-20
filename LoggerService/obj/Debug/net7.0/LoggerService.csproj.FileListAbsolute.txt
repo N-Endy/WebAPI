@@ -1,0 +1,15 @@
+/home/nelson/Desktop/C#/APIs/LoggerService/bin/Debug/net7.0/LoggerService.deps.json
+/home/nelson/Desktop/C#/APIs/LoggerService/bin/Debug/net7.0/LoggerService.dll
+/home/nelson/Desktop/C#/APIs/LoggerService/bin/Debug/net7.0/LoggerService.pdb
+/home/nelson/Desktop/C#/APIs/LoggerService/bin/Debug/net7.0/Contracts.dll
+/home/nelson/Desktop/C#/APIs/LoggerService/bin/Debug/net7.0/Contracts.pdb
+/home/nelson/Desktop/C#/APIs/LoggerService/obj/Debug/net7.0/LoggerService.csproj.AssemblyReference.cache
+/home/nelson/Desktop/C#/APIs/LoggerService/obj/Debug/net7.0/LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+/home/nelson/Desktop/C#/APIs/LoggerService/obj/Debug/net7.0/LoggerService.AssemblyInfoInputs.cache
+/home/nelson/Desktop/C#/APIs/LoggerService/obj/Debug/net7.0/LoggerService.AssemblyInfo.cs
+/home/nelson/Desktop/C#/APIs/LoggerService/obj/Debug/net7.0/LoggerService.csproj.CoreCompileInputs.cache
+/home/nelson/Desktop/C#/APIs/LoggerService/obj/Debug/net7.0/LoggerService.csproj.CopyComplete
+/home/nelson/Desktop/C#/APIs/LoggerService/obj/Debug/net7.0/LoggerService.dll
+/home/nelson/Desktop/C#/APIs/LoggerService/obj/Debug/net7.0/refint/LoggerService.dll
+/home/nelson/Desktop/C#/APIs/LoggerService/obj/Debug/net7.0/LoggerService.pdb
+/home/nelson/Desktop/C#/APIs/LoggerService/obj/Debug/net7.0/ref/LoggerService.dll

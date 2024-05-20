@@ -1,0 +1,12 @@
+/home/nelson/Desktop/C#/APIs/Contracts/bin/Debug/net7.0/Contracts.deps.json
+/home/nelson/Desktop/C#/APIs/Contracts/bin/Debug/net7.0/Contracts.dll
+/home/nelson/Desktop/C#/APIs/Contracts/bin/Debug/net7.0/Contracts.pdb
+/home/nelson/Desktop/C#/APIs/Contracts/obj/Debug/net7.0/Contracts.csproj.AssemblyReference.cache
+/home/nelson/Desktop/C#/APIs/Contracts/obj/Debug/net7.0/Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/home/nelson/Desktop/C#/APIs/Contracts/obj/Debug/net7.0/Contracts.AssemblyInfoInputs.cache
+/home/nelson/Desktop/C#/APIs/Contracts/obj/Debug/net7.0/Contracts.AssemblyInfo.cs
+/home/nelson/Desktop/C#/APIs/Contracts/obj/Debug/net7.0/Contracts.csproj.CoreCompileInputs.cache
+/home/nelson/Desktop/C#/APIs/Contracts/obj/Debug/net7.0/Contracts.dll
+/home/nelson/Desktop/C#/APIs/Contracts/obj/Debug/net7.0/refint/Contracts.dll
+/home/nelson/Desktop/C#/APIs/Contracts/obj/Debug/net7.0/Contracts.pdb
+/home/nelson/Desktop/C#/APIs/Contracts/obj/Debug/net7.0/ref/Contracts.dll

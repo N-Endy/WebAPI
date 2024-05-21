@@ -4,6 +4,66 @@
     "/home/nelson/Desktop/C#/APIs/CompanyEmployees/CompanyEmployees.csproj": {}
   },
   "projects": {
+    "/home/nelson/Desktop/C#/APIs/CompanyEmployees.Presentation/CompanyEmployees.Presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/nelson/Desktop/C#/APIs/CompanyEmployees.Presentation/CompanyEmployees.Presentation.csproj",
+        "projectName": "CompanyEmployees.Presentation",
+        "projectPath": "/home/nelson/Desktop/C#/APIs/CompanyEmployees.Presentation/CompanyEmployees.Presentation.csproj",
+        "packagesPath": "/home/nelson/.nuget/packages/",
+        "outputPath": "/home/nelson/Desktop/C#/APIs/CompanyEmployees.Presentation/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/nelson/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/nelson/Desktop/C#/APIs/Service.Contracts/Service.Contracts.csproj": {
+                "projectPath": "/home/nelson/Desktop/C#/APIs/Service.Contracts/Service.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/home/nelson/Desktop/C#/APIs/CompanyEmployees/CompanyEmployees.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -26,6 +86,9 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+              "/home/nelson/Desktop/C#/APIs/CompanyEmployees.Presentation/CompanyEmployees.Presentation.csproj": {
+                "projectPath": "/home/nelson/Desktop/C#/APIs/CompanyEmployees.Presentation/CompanyEmployees.Presentation.csproj"
+              },
               "/home/nelson/Desktop/C#/APIs/Contracts/Contracts.csproj": {
                 "projectPath": "/home/nelson/Desktop/C#/APIs/Contracts/Contracts.csproj"
               },

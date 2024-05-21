@@ -187,7 +187,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "/home/nelson/Desktop/C#/APIs/Entities/Entities.csproj": {
+                "projectPath": "/home/nelson/Desktop/C#/APIs/Entities/Entities.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

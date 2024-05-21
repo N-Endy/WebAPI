@@ -5,7 +5,7 @@ namespace CompanyEmployees.Presentation.Controllers
 {
     public class CompaniesController
     {
-        [Route("api/[controller]")]
+        [Route("api/[companies]")]
         [ApiController]
         public class CompanyController : ControllerBase
         {
